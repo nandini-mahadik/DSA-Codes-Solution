@@ -19,7 +19,7 @@ public class lcm_numbers {
 
         int lcm = (n1 * n2) / gcd;
 
-        System.out.println("LCM = " + lcm);
+        System.out.println("LCM of given number is = " + lcm);
     }
 
     public static void main(String[] args) {
